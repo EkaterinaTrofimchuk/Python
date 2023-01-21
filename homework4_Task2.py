@@ -20,3 +20,10 @@ for i in range(n):
        sum = max(sum, B[i]+B[i+1]+B[i+2])
 print(sum)
 
+
+
+
+
+
+
+
